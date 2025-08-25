@@ -102,9 +102,9 @@
 
 
 ### ✧ 상황별
-* **횡단보도에서 무단횡단 보행자 사고 났을때 **
+* **횡단보도에서 무단횡단 보행자 사고 났을때**
 
-| | |
+| | | |
 |-----|-----|-----|
 | <img width="1094" height="803" alt="Image" src="https://github.com/user-attachments/assets/b91b9abb-6565-4110-8153-c555f8e3aaaf" />| <img width="1029" height="694" alt="Image" src="https://github.com/user-attachments/assets/4ec8e3d9-7886-46f4-b395-9343a9d57860" /> |<img width="1071" height="871" alt="Image" src="https://github.com/user-attachments/assets/4e50635f-1a7c-4cb6-9067-5db611d23ab3" /> |
 
