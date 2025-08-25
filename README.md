@@ -94,8 +94,7 @@
 | <img width="1100" height="751" alt="Image" src="https://github.com/user-attachments/assets/6eb04024-738b-477f-8560-3dbe02202ddb" />| <img width="1071" height="754" alt="Image" src="https://github.com/user-attachments/assets/e6fc8763-70fb-48e5-b9bd-517e85a40c45" /> | <img width="1440" height="685" alt="image" src="https://github.com/user-attachments/assets/ae4ee676-574a-4c32-8931-929ef851a7ce" /> |
 
 
-### ✧ 상황별
-* **횡단보도에서 무단횡단 보행자 사고 났을때**
+### ✧ 상황별 (횡단보도에서 무단횡단 보행자 사고 났을때)
 
 | | | |
 |-----|-----|-----|
