@@ -68,21 +68,14 @@
 | <img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/b77924a7-8c06-46e1-897d-e2baa56e0c69" /> | <img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/6dc37fde-1434-450c-847e-9f1b7b1146cb" />  |
 
 
-### ➤  Prompt
-* **신뢰성 확보** : 근거 없는 답변을 금지하고, 자료 부재 시 보험사 공식 연락처·링크로 안내
- 
-* **개인 맞춤 기반 추천 서비스** : 사용자 특성(사고·과실·연령) 기반으로 비교·추천 근거를 구체적으로 제시
+### ➤  최종 Prompt
 <img width="1058" height="877" alt="Image" src="https://github.com/user-attachments/assets/a0726b49-9072-4d6d-8eae-17097c40419e" />
 
 
 
-### ⎕ 성능 평가
+### ➤  성능 평가
+<img width="1948" height="1082" alt="image" src="https://github.com/user-attachments/assets/68f4e85a-ec23-496a-bf18-d5dabe4473d2" />
 
-|지표|지표 설명 |1차 prompt 결과| 2차 prompt 결과 | 최종 prompt 결과|
-|-----|-----|-----|-----|-----|
-|faithfulness|답변 충실도, 환각 방지|0.339| 0.392|0.416|
-|answer_relevancy|답변의 질문 관련성| 0.171| 0.497| 0.416|
-|nv_context_relevance|검색한 문서의 답변 관련성|0.408|0.392|0.400|
 
 
 
