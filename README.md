@@ -69,7 +69,7 @@
 
 
 ### ➤  최종 Prompt
-<img width="1058" height="877" alt="Image" src="https://github.com/user-attachments/assets/a0726b49-9072-4d6d-8eae-17097c40419e" />
+<img width="1051" height="586" alt="image" src="https://github.com/user-attachments/assets/eca515c7-8a6a-46ad-a202-18802e0c89a8" />
 
 
 
