@@ -16,7 +16,7 @@
 <br/>
 
 
-## 💡 프로젝트 흐름
+## 💡 전체 플로우
 <img width="954" height="600" alt="image" src="https://github.com/user-attachments/assets/6a6701d0-231a-446a-981f-ad62b133ab0c" />
 
 * **데이터 전처리**
